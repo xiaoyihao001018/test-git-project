@@ -2,6 +2,7 @@
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <p>测试一下！</p>
+  <p>测试两下！</p>
 </template>
 
 <script>
