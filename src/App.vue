@@ -3,6 +3,7 @@
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <p>测试一下！</p>
   <p>测试两下！</p>
+  <p>测试三下！</p>
 </template>
 
 <script>
