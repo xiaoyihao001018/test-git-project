@@ -7,6 +7,7 @@
   <p>测试四下！</p>
   <p>测试五下！</p>
   <p>测试六下！</p>
+  <div>内网穿透！</div>
 </template>
 
 <script>
